@@ -23,5 +23,6 @@ SAME
 	ZIELONY     zielony
 
 Czcionki:
-mały litery - Informal Roman
-wielkie litery - Calibri
+
+	mały litery - Informal Roman
+	wielkie litery - Calibri
