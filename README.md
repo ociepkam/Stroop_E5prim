@@ -4,23 +4,23 @@ Wersja techniczna (E5prim), chcemy sprawdzić czy prezentacja tych samych słów
 
 DIFFERENT
 
-ZIELONY zielony
-zielony ZIELONY
+	ZIELONY     zielony
+	zielony     ZIELONY
 
 REVERSED
 
-ZIELony zielONY
-zielONY ZIELony
+	ZIELony     zielONY
+	zielONY     ZIELony
 
 MERGED
 
-zielONY ZIELony
-zielONY ZIELony
+	zielONY     ZIELony
+	zielONY     ZIELony
 
 SAME
 
-ZIELONY zielony
-ZIELONY zielony
+	ZIELONY     zielony
+	ZIELONY     zielony
 
 Czcionki:
 mały litery - Informal Roman
