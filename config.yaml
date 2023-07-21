@@ -1,0 +1,59 @@
+test: False
+
+Training1_trials_con_con: 0
+Training1_trials_inc_inc_different1 : 0  # BLUE blue
+Training1_trials_inc_inc_different2 : 0  # blue BLUE
+Training1_trials_inc_inc_reversed1  : 0  # BLue blUE
+Training1_trials_inc_inc_reversed2  : 0  # blUE BLue
+Training1_trials_inc_inc_merged1  : 0  # blUE blUE
+Training1_trials_inc_inc_merged2  : 0  # BLue BLue
+Training1_trials_inc_inc_same1 : 0  # BLUE BLUE
+Training1_trials_inc_inc_same2 : 0  # blue blue
+Training1_trials_neu_neu: 0
+
+Training2_trials_con_con: 4
+Training2_trials_inc_inc_different1 : 2  # BLUE blue
+Training2_trials_inc_inc_different2 : 2  # blue BLUE
+Training2_trials_inc_inc_reversed1  : 2  # BLue blUE
+Training2_trials_inc_inc_reversed2  : 2  # blUE BLue
+Training2_trials_inc_inc_merged1  : 2  # blUE blUE
+Training2_trials_inc_inc_merged2  : 2  # BLue BLue
+Training2_trials_inc_inc_same1 : 2  # BLUE BLUE
+Training2_trials_inc_inc_same2 : 2  # blue blue
+Training2_trials_neu_neu: 0
+
+Training_Resp_time: 4
+Training_Wait_time: 1
+
+Number_of_blocks: 2
+Experiment_trials_con_con: 80
+Experiment_trials_inc_inc_different1 : 40  # BLUE blue
+Experiment_trials_inc_inc_different2 : 40  # blue BLUE
+Experiment_trials_inc_inc_reversed1  : 40  # BLue blUE
+Experiment_trials_inc_inc_reversed2  : 40  # blUE BLue
+Experiment_trials_inc_inc_merged1  : 40  # blUE blUE
+Experiment_trials_inc_inc_merged2  : 40  # BLue BLue
+Experiment_trials_inc_inc_same1 : 40  # BLUE BLUE
+Experiment_trials_inc_inc_same2 : 40  # blue blue
+Experiment_trials_neu_neu: 0
+
+Experiment_Resp_time: 3
+Experiment_Wait_time: 1
+
+Jitter: 1
+
+Fix_time: 1
+Feedb: True
+Feedb_time: 1
+
+words_dist: 40
+
+small_letters_font: Informal Roman
+small_letters_file_name_in_system: INFROMAN.TTF
+small_letters_size: 30
+
+big_letters_font: Calibri
+big_letters_file_name_in_system: calibri.ttf
+big_letters_size: 30
+
+# ophthalmic_procedure: False
