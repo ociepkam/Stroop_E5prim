@@ -1,9 +1,9 @@
 ﻿Teraz zaczyna się druga cześć treningu, która jest trudniejsza niż poprzednia.
 
-Tym razem będą się wyświetlać trzy słowa oznaczające kolory (ZIELONY, CZERWONY itp.).
+Tym razem będą się wyświetlać dwa słowa oznaczające kolory (ZIELONY, CZERWONY itp.).
 Słowa będą prezentowane jedno pod drugim.
 
-Tak jak poprzednio, rozpoznawaj wyłącznie KOLOR SŁÓW, a zupełnie ignoruj ich znaczenie.
+Tak jak poprzednio, rozpoznawaj wyłącznie KOLOR SŁÓW, a zupełnie ignoruj ich znaczenie i wygląd czcionki.
 
 Naciskaj:
 <--insert-->
