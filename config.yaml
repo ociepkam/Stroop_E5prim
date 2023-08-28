@@ -9,7 +9,7 @@ Training1_trials_inc_inc_merged1  : 0  # blUE blUE
 Training1_trials_inc_inc_merged2  : 0  # BLue BLue
 Training1_trials_inc_inc_same1 : 0  # BLUE BLUE
 Training1_trials_inc_inc_same2 : 0  # blue blue
-Training1_trials_neu_neu: 0
+Training1_trials_neu_neu: 10
 
 Training2_trials_con_con: 4
 Training2_trials_inc_inc_different1 : 2  # BLUE blue
